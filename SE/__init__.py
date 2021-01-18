@@ -5,4 +5,4 @@ def joke():
             u'Beiherhund das Oder die Flipperwaldt gersput.')
 
 print(joke())
-print(platform.machi
+print(platform.machine())
